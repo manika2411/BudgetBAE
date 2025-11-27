@@ -43,7 +43,7 @@ export default function Goals() {
             icon={<Plane className="w-6 h-6 text-white" />}
             title="Bali Trip"
             subtitle="₹3,000 / ₹4,000"
-            progress={12}
+            progress={75}
             daysRemaining="Almost there!"
             bgGradient="from-teal-700 to-teal-800"
             coins={1}
